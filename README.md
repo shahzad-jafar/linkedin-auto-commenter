@@ -180,5 +180,6 @@ The system uses **goal-based reasoning**, so it learns to focus only on posts th
 
 ## 👨‍💻 Author
 **Project by:** Shahzad Ahmad
-**Contact Me** shahzadjafar@live.com 
+**Contact Me** shahzadjafar@live.com
+**Linkedin** https://www.linkedin.com/in/shahzadjafar/
 **AI Engineering/ Data Scientist:**   
