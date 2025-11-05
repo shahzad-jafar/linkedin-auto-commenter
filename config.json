@@ -1,0 +1,7 @@
+{
+    "niche": "SEO, Marketing, Optimization, digital marketing",
+    "tone": "Professional",
+    "model": "ollama",
+    "interval": 2,
+    "hf_token": ""
+}

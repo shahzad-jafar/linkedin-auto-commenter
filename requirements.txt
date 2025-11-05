@@ -1,0 +1,6 @@
+streamlit
+playwright
+langchain
+langchain-community
+huggingface-hub
+ollama
